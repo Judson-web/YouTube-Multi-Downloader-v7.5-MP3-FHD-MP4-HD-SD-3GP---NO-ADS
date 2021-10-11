@@ -12,3 +12,10 @@ Compatibility Compatible with - Firefox - Opera - Safari - Edge
 License CC-BY-NC-ND-4.0
 Antifeatures Referral links
 Applies to youtube.com
+
+
+var google = document.getElementById("main");
+    var button = document.createElement("button");
+    var text = document.createTextNode("test");
+    button.appendChild(text);
+    google.appendChild(button);

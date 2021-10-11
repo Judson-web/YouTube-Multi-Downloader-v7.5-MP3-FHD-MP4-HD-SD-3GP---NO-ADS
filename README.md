@@ -11,4 +11,4 @@ Created 10/29/2017Updated8/22/2021
 Compatibility Compatible with - Firefox - Opera - Safari - Edge 
 License CC-BY-NC-ND-4.0
 Antifeatures Referral links
-Applies to youtube.com```
+Applies to youtube.com
